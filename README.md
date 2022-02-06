@@ -1,5 +1,6 @@
 # N11 JMeter Test Case
-This project was created by using Jmeter to measure the performance of the n11 page under load. Some steps in the project are as follows:
+This project was created by using Jmeter to measure the performance of the n11 page under load. In this project, 15 products are added to the basket, but only products under 100 TL should be added. Some steps in the project are as follows:
+
 - Using assortions between steps,
 - Failure to continue next step after Assertion error,
 - Using different timeouts for different pages in the test. 
